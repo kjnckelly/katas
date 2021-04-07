@@ -14,7 +14,7 @@ An example would be “XIV” + “LX” = “LXXIV”
 Roman numeral rules:
 * Numbers are formed by combining several numerals. Example: “XXII” is twenty-two.
 * If a lesser numeral is put before a bigger it means subtraction of the lesser from the bigger. Example: IV can be read as one less than five (4) and CM can be read one-hundred less than one-thousand (900)
-* If the numeral is I, X or C you can’t have more than three. Example: “IIII” is invalid and should be “IV”.
+* If the numeral is I, X or C you can’t have more than three. Example: “IIII” is invalid and should be “IV” and "LXXXX" should be "XC"
 * If the numeral is V, L or D you can’t have more than one. Example: “DD” is invalid and should be “M”
 
 ## Constraints
