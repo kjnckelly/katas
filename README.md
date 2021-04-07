@@ -1,0 +1,2 @@
+# katas
+Practicing the craft
