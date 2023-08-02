@@ -1,4 +1,6 @@
 # Strangled Rose Kata #
+> For any significant change; don't make it in place; make it side-by-side.
+> -- Mark Seemann
 
 Start with the [Gilded Rose Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) 
 in the language of your choice: 
